@@ -1,6 +1,6 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=shimu-i/Nook)
 
-
+![alt text](image.png)
 # Nook
 ### A quiet reading companion for rainy afternoons
 
